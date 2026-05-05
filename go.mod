@@ -31,8 +31,8 @@ require (
 	github.com/ory/dockertest/v3 v3.12.0
 	github.com/pion/datachannel v1.6.0
 	github.com/pion/dtls/v3 v3.1.2
-	github.com/pion/ice/v4 v4.2.3
-	github.com/pion/interceptor v0.1.44
+	github.com/pion/ice/v4 v4.2.5
+	github.com/pion/interceptor v0.1.45
 	github.com/pion/rtcp v1.2.16
 	github.com/pion/rtp v1.10.1
 	github.com/pion/sctp v1.9.5
@@ -74,6 +74,7 @@ require (
 	github.com/olekukonko/cat v0.0.0-20250911104152-50322a0618f6 // indirect
 	github.com/olekukonko/errors v1.2.0 // indirect
 	github.com/olekukonko/ll v0.1.6 // indirect
+	github.com/pion/turn/v5 v5.0.3 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.opentelemetry.io/otel v1.43.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.43.0 // indirect
